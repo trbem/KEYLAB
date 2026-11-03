@@ -1,0 +1,104 @@
+[
+  {
+    "source": "case",
+    "target": "pcb",
+    "fields": [
+      "fit"
+    ],
+    "mismatchStatus": "incompatible",
+    "reason": "配件适配规格不匹配"
+  },
+  {
+    "source": "pcb",
+    "target": "plate",
+    "fields": [
+      "fit",
+      "layout",
+      "mounting"
+    ],
+    "mismatchStatus": "incompatible",
+    "reason": "配件适配规格不匹配"
+  },
+  {
+    "source": "pcb",
+    "target": "switches",
+    "fields": [
+      "pin"
+    ],
+    "mismatchStatus": "incompatible",
+    "reason": "配件适配规格不匹配"
+  },
+  {
+    "source": "switches",
+    "target": "keycaps",
+    "fields": [
+      "stem"
+    ],
+    "mismatchStatus": "incompatible",
+    "reason": "配件适配规格不匹配"
+  },
+  {
+    "source": "pcb",
+    "target": "stabilizers",
+    "fields": [
+      "fit",
+      "mounting"
+    ],
+    "mismatchStatus": "incompatible",
+    "reason": "配件适配规格不匹配"
+  },
+  {
+    "source": "plate",
+    "target": "stabilizers",
+    "fields": [
+      "fit"
+    ],
+    "mismatchStatus": "incompatible",
+    "reason": "配件适配规格不匹配"
+  },
+  {
+    "source": "case",
+    "target": "case_foam",
+    "fields": [
+      "fit"
+    ],
+    "mismatchStatus": "incompatible",
+    "reason": "配件适配规格不匹配"
+  },
+  {
+    "source": "pcb",
+    "target": "case_foam",
+    "fields": [
+      "fit"
+    ],
+    "mismatchStatus": "incompatible",
+    "reason": "配件适配规格不匹配"
+  },
+  {
+    "source": "pcb",
+    "target": "switch_pad",
+    "fields": [
+      "fit"
+    ],
+    "mismatchStatus": "incompatible",
+    "reason": "配件适配规格不匹配"
+  },
+  {
+    "source": "pcb",
+    "target": "plate_foam",
+    "fields": [
+      "fit"
+    ],
+    "mismatchStatus": "incompatible",
+    "reason": "配件适配规格不匹配"
+  },
+  {
+    "source": "plate",
+    "target": "plate_foam",
+    "fields": [
+      "fit"
+    ],
+    "mismatchStatus": "incompatible",
+    "reason": "配件适配规格不匹配"
+  }
+]

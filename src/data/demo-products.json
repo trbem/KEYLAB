@@ -1,0 +1,6774 @@
+[
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-navy",
+    "slot": "case",
+    "name": "深海蓝铝合金外壳",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#3d4d69",
+    "price": [
+      {
+        "id": "case-navy-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-navy-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-cream",
+    "slot": "case",
+    "name": "奶油白铝合金外壳",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#ded9cc",
+    "price": [
+      {
+        "id": "case-cream-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-cream-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-dense",
+    "slot": "case_foam",
+    "name": "高密度底棉",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#77767c",
+    "price": [
+      {
+        "id": "foam-case-dense-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-dense-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-silicone",
+    "slot": "case_foam",
+    "name": "静音硅胶底棉",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#a8a5ad",
+    "price": [
+      {
+        "id": "foam-case-silicone-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-silicone-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-thin",
+    "slot": "switch_pad",
+    "name": "轻薄轴下垫",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#797782",
+    "price": [
+      {
+        "id": "pad-thin-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 2500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-thin-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 2500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-soft",
+    "slot": "switch_pad",
+    "name": "柔软轴下垫",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#a6a4ae",
+    "price": [
+      {
+        "id": "pad-soft-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-soft-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-wired",
+    "slot": "pcb",
+    "name": "75% 有线热插拔 PCB",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#304d47",
+    "price": [
+      {
+        "id": "pcb-wired-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 27900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-wired-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 27900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-compact",
+    "slot": "pcb",
+    "name": "75% 样板 PCB · 紧凑版",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#294943",
+    "price": [
+      {
+        "id": "pcb-compact-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 30900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-compact-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 30900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-light",
+    "slot": "plate_foam",
+    "name": "轻薄夹心棉",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#8d8994",
+    "price": [
+      {
+        "id": "foam-plate-light-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-light-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-soft",
+    "slot": "plate_foam",
+    "name": "柔软夹心棉",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#9d98a7",
+    "price": [
+      {
+        "id": "foam-plate-soft-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-soft-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-fr4",
+    "slot": "plate",
+    "name": "FR4 定位板",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#5f626f",
+    "price": [
+      {
+        "id": "plate-fr4-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 13900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-fr4-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 13900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-pom",
+    "slot": "plate",
+    "name": "POM 定位板",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#dedce4",
+    "price": [
+      {
+        "id": "plate-pom-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 14900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-pom-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 14900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-soft",
+    "slot": "switches",
+    "name": "轻压力线性轴 · 81 颗",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#d6c9eb",
+    "price": [
+      {
+        "id": "switch-soft-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 19900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-soft-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 19900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-firm",
+    "slot": "switches",
+    "name": "重压力段落轴 · 81 颗",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#a992bc",
+    "price": [
+      {
+        "id": "switch-firm-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-firm-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-smoke",
+    "slot": "stabilizers",
+    "name": "烟灰色卫星轴",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#9693a0",
+    "price": [
+      {
+        "id": "stabilizer-smoke-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-smoke-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-white",
+    "slot": "stabilizers",
+    "name": "乳白卫星轴",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#d4ced8",
+    "price": [
+      {
+        "id": "stabilizer-white-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-white-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-lavender",
+    "slot": "keycaps",
+    "name": "浅紫键帽套装",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#c3b5da",
+    "price": [
+      {
+        "id": "keycap-lavender-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 23900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-lavender-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 23900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-sand",
+    "slot": "keycaps",
+    "name": "沙色键帽套装",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#d1c4ad",
+    "price": [
+      {
+        "id": "keycap-sand-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-sand-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-lavender",
+    "slot": "case",
+    "name": "薰衣紫铝合金外壳",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#a594d0",
+    "price": [
+      {
+        "id": "case-lavender-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-lavender-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-black",
+    "slot": "case",
+    "name": "曜石黑铝合金外壳",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#383e47",
+    "price": [
+      {
+        "id": "case-black-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-black-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-silver",
+    "slot": "case",
+    "name": "月光银铝合金外壳",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#aeb7bf",
+    "price": [
+      {
+        "id": "case-silver-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 48900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-silver-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 48900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "other-fit",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-bad",
+    "slot": "case",
+    "name": "不匹配外壳 · 演示冲突",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#735254",
+    "price": [
+      {
+        "id": "case-bad-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 39900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-bad-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 39900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case",
+    "slot": "case_foam",
+    "name": "样板底棉",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#747981",
+    "price": [
+      {
+        "id": "foam-case-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-soft",
+    "slot": "case_foam",
+    "name": "柔软底棉",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#a19b8c",
+    "price": [
+      {
+        "id": "foam-case-soft-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-soft-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-silicone",
+    "slot": "switch_pad",
+    "name": "样板硅胶轴下垫",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#a8a2b6",
+    "price": [
+      {
+        "id": "pad-silicone-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 2900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-silicone-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 2900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-poron",
+    "slot": "switch_pad",
+    "name": "样板泡棉轴下垫",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#777582",
+    "price": [
+      {
+        "id": "pad-poron-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-poron-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-main",
+    "slot": "pcb",
+    "name": "75% 热插拔 PCB",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#224f4a",
+    "price": [
+      {
+        "id": "pcb-main-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 29900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-main-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 29900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-alt",
+    "slot": "pcb",
+    "name": "75% 热插拔 PCB · 暗色",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#263442",
+    "price": [
+      {
+        "id": "pcb-alt-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 31900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-alt-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 31900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate",
+    "slot": "plate_foam",
+    "name": "样板夹心棉",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#666b71",
+    "price": [
+      {
+        "id": "foam-plate-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-thick",
+    "slot": "plate_foam",
+    "name": "加厚夹心棉",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#8e8c82",
+    "price": [
+      {
+        "id": "foam-plate-thick-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-thick-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 4,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-pc",
+    "slot": "plate",
+    "name": "雾面 PC 定位板",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PC",
+    "color": "#c4c8c2",
+    "price": [
+      {
+        "id": "plate-pc-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 12900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-pc-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 12900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-al",
+    "slot": "plate",
+    "name": "铝合金定位板",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#8d989f",
+    "price": [
+      {
+        "id": "plate-al-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 15900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-al-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 15900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-linear",
+    "slot": "switches",
+    "name": "线性轴 · 81 颗",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#b3a3dc",
+    "price": [
+      {
+        "id": "switch-linear-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 18900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-linear-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 18900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-tactile",
+    "slot": "switches",
+    "name": "段落轴 · 81 颗",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#c49982",
+    "price": [
+      {
+        "id": "switch-tactile-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 21900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-tactile-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 21900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-main",
+    "slot": "stabilizers",
+    "name": "PCB 安装卫星轴",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#c8b895",
+    "price": [
+      {
+        "id": "stabilizer-main-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-main-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-alt",
+    "slot": "stabilizers",
+    "name": "透明卫星轴",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#aebdb9",
+    "price": [
+      {
+        "id": "stabilizer-alt-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-alt-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-ivory",
+    "slot": "keycaps",
+    "name": "云白键帽套装",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#e6e2d5",
+    "price": [
+      {
+        "id": "keycap-ivory-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-ivory-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-dark",
+    "slot": "keycaps",
+    "name": "石墨键帽套装",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#525d65",
+    "price": [
+      {
+        "id": "keycap-dark-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 25900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-dark-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 25900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-a",
+    "layout": "ansi-81",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "id": "keycap-unknown",
+    "slot": "keycaps",
+    "name": "未验证键帽套装",
+    "description": "用于 75% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#b7a4ad",
+    "price": [
+      {
+        "id": "keycap-unknown-own",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": null,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-unknown-external",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": null,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-navy-layout-60-ansi-61",
+    "slot": "case",
+    "name": "深海蓝铝合金外壳 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#3d4d69",
+    "price": [
+      {
+        "id": "case-navy-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-navy-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-cream-layout-60-ansi-61",
+    "slot": "case",
+    "name": "奶油白铝合金外壳 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#ded9cc",
+    "price": [
+      {
+        "id": "case-cream-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-cream-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-dense-layout-60-ansi-61",
+    "slot": "case_foam",
+    "name": "高密度底棉 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#77767c",
+    "price": [
+      {
+        "id": "foam-case-dense-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-dense-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-silicone-layout-60-ansi-61",
+    "slot": "case_foam",
+    "name": "静音硅胶底棉 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#a8a5ad",
+    "price": [
+      {
+        "id": "foam-case-silicone-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-silicone-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-thin-layout-60-ansi-61",
+    "slot": "switch_pad",
+    "name": "轻薄轴下垫 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#797782",
+    "price": [
+      {
+        "id": "pad-thin-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 2500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-thin-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 2500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-soft-layout-60-ansi-61",
+    "slot": "switch_pad",
+    "name": "柔软轴下垫 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#a6a4ae",
+    "price": [
+      {
+        "id": "pad-soft-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-soft-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-wired-layout-60-ansi-61",
+    "slot": "pcb",
+    "name": "60% 有线热插拔 PCB · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#304d47",
+    "price": [
+      {
+        "id": "pcb-wired-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 27900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-wired-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 27900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-compact-layout-60-ansi-61",
+    "slot": "pcb",
+    "name": "60% 样板 PCB · 紧凑版 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#294943",
+    "price": [
+      {
+        "id": "pcb-compact-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 30900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-compact-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 30900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-light-layout-60-ansi-61",
+    "slot": "plate_foam",
+    "name": "轻薄夹心棉 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#8d8994",
+    "price": [
+      {
+        "id": "foam-plate-light-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-light-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-soft-layout-60-ansi-61",
+    "slot": "plate_foam",
+    "name": "柔软夹心棉 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#9d98a7",
+    "price": [
+      {
+        "id": "foam-plate-soft-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-soft-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-fr4-layout-60-ansi-61",
+    "slot": "plate",
+    "name": "FR4 定位板 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#5f626f",
+    "price": [
+      {
+        "id": "plate-fr4-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 13900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-fr4-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 13900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-pom-layout-60-ansi-61",
+    "slot": "plate",
+    "name": "POM 定位板 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#dedce4",
+    "price": [
+      {
+        "id": "plate-pom-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 14900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-pom-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 14900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-soft-layout-60-ansi-61",
+    "slot": "switches",
+    "name": "轻压力线性轴 · 61 颗 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#d6c9eb",
+    "price": [
+      {
+        "id": "switch-soft-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 19900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-soft-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 19900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-firm-layout-60-ansi-61",
+    "slot": "switches",
+    "name": "重压力段落轴 · 61 颗 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#a992bc",
+    "price": [
+      {
+        "id": "switch-firm-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-firm-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-smoke-layout-60-ansi-61",
+    "slot": "stabilizers",
+    "name": "烟灰色卫星轴 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#9693a0",
+    "price": [
+      {
+        "id": "stabilizer-smoke-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-smoke-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-white-layout-60-ansi-61",
+    "slot": "stabilizers",
+    "name": "乳白卫星轴 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#d4ced8",
+    "price": [
+      {
+        "id": "stabilizer-white-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-white-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-lavender-layout-60-ansi-61",
+    "slot": "keycaps",
+    "name": "浅紫键帽套装 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#c3b5da",
+    "price": [
+      {
+        "id": "keycap-lavender-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 23900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-lavender-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 23900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-sand-layout-60-ansi-61",
+    "slot": "keycaps",
+    "name": "沙色键帽套装 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#d1c4ad",
+    "price": [
+      {
+        "id": "keycap-sand-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-sand-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-lavender-layout-60-ansi-61",
+    "slot": "case",
+    "name": "薰衣紫铝合金外壳 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#a594d0",
+    "price": [
+      {
+        "id": "case-lavender-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-lavender-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-black-layout-60-ansi-61",
+    "slot": "case",
+    "name": "曜石黑铝合金外壳 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#383e47",
+    "price": [
+      {
+        "id": "case-black-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-black-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-silver-layout-60-ansi-61",
+    "slot": "case",
+    "name": "月光银铝合金外壳 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#aeb7bf",
+    "price": [
+      {
+        "id": "case-silver-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 48900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-silver-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 48900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-layout-60-ansi-61",
+    "slot": "case_foam",
+    "name": "样板底棉 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#747981",
+    "price": [
+      {
+        "id": "foam-case-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-soft-layout-60-ansi-61",
+    "slot": "case_foam",
+    "name": "柔软底棉 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#a19b8c",
+    "price": [
+      {
+        "id": "foam-case-soft-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-soft-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-silicone-layout-60-ansi-61",
+    "slot": "switch_pad",
+    "name": "样板硅胶轴下垫 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#a8a2b6",
+    "price": [
+      {
+        "id": "pad-silicone-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 2900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-silicone-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 2900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-poron-layout-60-ansi-61",
+    "slot": "switch_pad",
+    "name": "样板泡棉轴下垫 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#777582",
+    "price": [
+      {
+        "id": "pad-poron-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-poron-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-main-layout-60-ansi-61",
+    "slot": "pcb",
+    "name": "60% 热插拔 PCB · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#224f4a",
+    "price": [
+      {
+        "id": "pcb-main-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 29900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-main-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 29900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-alt-layout-60-ansi-61",
+    "slot": "pcb",
+    "name": "60% 热插拔 PCB · 暗色 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#263442",
+    "price": [
+      {
+        "id": "pcb-alt-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 31900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-alt-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 31900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-layout-60-ansi-61",
+    "slot": "plate_foam",
+    "name": "样板夹心棉 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#666b71",
+    "price": [
+      {
+        "id": "foam-plate-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-thick-layout-60-ansi-61",
+    "slot": "plate_foam",
+    "name": "加厚夹心棉 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#8e8c82",
+    "price": [
+      {
+        "id": "foam-plate-thick-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-thick-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 4,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-pc-layout-60-ansi-61",
+    "slot": "plate",
+    "name": "雾面 PC 定位板 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PC",
+    "color": "#c4c8c2",
+    "price": [
+      {
+        "id": "plate-pc-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 12900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-pc-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 12900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-al-layout-60-ansi-61",
+    "slot": "plate",
+    "name": "铝合金定位板 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#8d989f",
+    "price": [
+      {
+        "id": "plate-al-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 15900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-al-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 15900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-linear-layout-60-ansi-61",
+    "slot": "switches",
+    "name": "线性轴 · 61 颗 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#b3a3dc",
+    "price": [
+      {
+        "id": "switch-linear-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 18900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-linear-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 18900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-tactile-layout-60-ansi-61",
+    "slot": "switches",
+    "name": "段落轴 · 61 颗 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#c49982",
+    "price": [
+      {
+        "id": "switch-tactile-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 21900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-tactile-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 21900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-main-layout-60-ansi-61",
+    "slot": "stabilizers",
+    "name": "PCB 安装卫星轴 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#c8b895",
+    "price": [
+      {
+        "id": "stabilizer-main-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-main-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-alt-layout-60-ansi-61",
+    "slot": "stabilizers",
+    "name": "透明卫星轴 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#aebdb9",
+    "price": [
+      {
+        "id": "stabilizer-alt-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-alt-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-ivory-layout-60-ansi-61",
+    "slot": "keycaps",
+    "name": "云白键帽套装 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#e6e2d5",
+    "price": [
+      {
+        "id": "keycap-ivory-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-ivory-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-layout-60-ansi-61",
+    "layout": "layout-60-ansi-61",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-dark-layout-60-ansi-61",
+    "slot": "keycaps",
+    "name": "石墨键帽套装 · 60% ANSI",
+    "description": "用于 60% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#525d65",
+    "price": [
+      {
+        "id": "keycap-dark-own-layout-60-ansi-61",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 25900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-dark-external-layout-60-ansi-61",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 25900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-navy-layout-tkl-ansi-87",
+    "slot": "case",
+    "name": "深海蓝铝合金外壳 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#3d4d69",
+    "price": [
+      {
+        "id": "case-navy-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-navy-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-cream-layout-tkl-ansi-87",
+    "slot": "case",
+    "name": "奶油白铝合金外壳 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#ded9cc",
+    "price": [
+      {
+        "id": "case-cream-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-cream-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-dense-layout-tkl-ansi-87",
+    "slot": "case_foam",
+    "name": "高密度底棉 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#77767c",
+    "price": [
+      {
+        "id": "foam-case-dense-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-dense-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-silicone-layout-tkl-ansi-87",
+    "slot": "case_foam",
+    "name": "静音硅胶底棉 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#a8a5ad",
+    "price": [
+      {
+        "id": "foam-case-silicone-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-silicone-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-thin-layout-tkl-ansi-87",
+    "slot": "switch_pad",
+    "name": "轻薄轴下垫 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#797782",
+    "price": [
+      {
+        "id": "pad-thin-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 2500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-thin-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 2500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-soft-layout-tkl-ansi-87",
+    "slot": "switch_pad",
+    "name": "柔软轴下垫 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#a6a4ae",
+    "price": [
+      {
+        "id": "pad-soft-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-soft-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-wired-layout-tkl-ansi-87",
+    "slot": "pcb",
+    "name": "TKL 有线热插拔 PCB · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#304d47",
+    "price": [
+      {
+        "id": "pcb-wired-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 27900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-wired-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 27900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-compact-layout-tkl-ansi-87",
+    "slot": "pcb",
+    "name": "TKL 样板 PCB · 紧凑版 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#294943",
+    "price": [
+      {
+        "id": "pcb-compact-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 30900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-compact-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 30900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-light-layout-tkl-ansi-87",
+    "slot": "plate_foam",
+    "name": "轻薄夹心棉 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#8d8994",
+    "price": [
+      {
+        "id": "foam-plate-light-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-light-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-soft-layout-tkl-ansi-87",
+    "slot": "plate_foam",
+    "name": "柔软夹心棉 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#9d98a7",
+    "price": [
+      {
+        "id": "foam-plate-soft-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-soft-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-fr4-layout-tkl-ansi-87",
+    "slot": "plate",
+    "name": "FR4 定位板 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#5f626f",
+    "price": [
+      {
+        "id": "plate-fr4-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 13900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-fr4-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 13900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-pom-layout-tkl-ansi-87",
+    "slot": "plate",
+    "name": "POM 定位板 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#dedce4",
+    "price": [
+      {
+        "id": "plate-pom-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 14900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-pom-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 14900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-soft-layout-tkl-ansi-87",
+    "slot": "switches",
+    "name": "轻压力线性轴 · 87 颗 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#d6c9eb",
+    "price": [
+      {
+        "id": "switch-soft-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 19900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-soft-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 19900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-firm-layout-tkl-ansi-87",
+    "slot": "switches",
+    "name": "重压力段落轴 · 87 颗 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#a992bc",
+    "price": [
+      {
+        "id": "switch-firm-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-firm-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-smoke-layout-tkl-ansi-87",
+    "slot": "stabilizers",
+    "name": "烟灰色卫星轴 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#9693a0",
+    "price": [
+      {
+        "id": "stabilizer-smoke-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-smoke-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-white-layout-tkl-ansi-87",
+    "slot": "stabilizers",
+    "name": "乳白卫星轴 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#d4ced8",
+    "price": [
+      {
+        "id": "stabilizer-white-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-white-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-lavender-layout-tkl-ansi-87",
+    "slot": "keycaps",
+    "name": "浅紫键帽套装 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#c3b5da",
+    "price": [
+      {
+        "id": "keycap-lavender-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 23900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-lavender-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 23900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-sand-layout-tkl-ansi-87",
+    "slot": "keycaps",
+    "name": "沙色键帽套装 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#d1c4ad",
+    "price": [
+      {
+        "id": "keycap-sand-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-sand-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-lavender-layout-tkl-ansi-87",
+    "slot": "case",
+    "name": "薰衣紫铝合金外壳 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#a594d0",
+    "price": [
+      {
+        "id": "case-lavender-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-lavender-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-black-layout-tkl-ansi-87",
+    "slot": "case",
+    "name": "曜石黑铝合金外壳 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#383e47",
+    "price": [
+      {
+        "id": "case-black-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-black-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-silver-layout-tkl-ansi-87",
+    "slot": "case",
+    "name": "月光银铝合金外壳 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#aeb7bf",
+    "price": [
+      {
+        "id": "case-silver-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 48900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-silver-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 48900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-layout-tkl-ansi-87",
+    "slot": "case_foam",
+    "name": "样板底棉 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#747981",
+    "price": [
+      {
+        "id": "foam-case-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-soft-layout-tkl-ansi-87",
+    "slot": "case_foam",
+    "name": "柔软底棉 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#a19b8c",
+    "price": [
+      {
+        "id": "foam-case-soft-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-soft-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-silicone-layout-tkl-ansi-87",
+    "slot": "switch_pad",
+    "name": "样板硅胶轴下垫 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#a8a2b6",
+    "price": [
+      {
+        "id": "pad-silicone-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 2900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-silicone-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 2900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-poron-layout-tkl-ansi-87",
+    "slot": "switch_pad",
+    "name": "样板泡棉轴下垫 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#777582",
+    "price": [
+      {
+        "id": "pad-poron-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-poron-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-main-layout-tkl-ansi-87",
+    "slot": "pcb",
+    "name": "TKL 热插拔 PCB · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#224f4a",
+    "price": [
+      {
+        "id": "pcb-main-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 29900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-main-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 29900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-alt-layout-tkl-ansi-87",
+    "slot": "pcb",
+    "name": "TKL 热插拔 PCB · 暗色 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#263442",
+    "price": [
+      {
+        "id": "pcb-alt-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 31900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-alt-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 31900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-layout-tkl-ansi-87",
+    "slot": "plate_foam",
+    "name": "样板夹心棉 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#666b71",
+    "price": [
+      {
+        "id": "foam-plate-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-thick-layout-tkl-ansi-87",
+    "slot": "plate_foam",
+    "name": "加厚夹心棉 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#8e8c82",
+    "price": [
+      {
+        "id": "foam-plate-thick-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-thick-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 4,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-pc-layout-tkl-ansi-87",
+    "slot": "plate",
+    "name": "雾面 PC 定位板 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PC",
+    "color": "#c4c8c2",
+    "price": [
+      {
+        "id": "plate-pc-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 12900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-pc-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 12900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-al-layout-tkl-ansi-87",
+    "slot": "plate",
+    "name": "铝合金定位板 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#8d989f",
+    "price": [
+      {
+        "id": "plate-al-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 15900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-al-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 15900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-linear-layout-tkl-ansi-87",
+    "slot": "switches",
+    "name": "线性轴 · 87 颗 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#b3a3dc",
+    "price": [
+      {
+        "id": "switch-linear-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 18900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-linear-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 18900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-tactile-layout-tkl-ansi-87",
+    "slot": "switches",
+    "name": "段落轴 · 87 颗 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#c49982",
+    "price": [
+      {
+        "id": "switch-tactile-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 21900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-tactile-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 21900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-main-layout-tkl-ansi-87",
+    "slot": "stabilizers",
+    "name": "PCB 安装卫星轴 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#c8b895",
+    "price": [
+      {
+        "id": "stabilizer-main-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-main-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-alt-layout-tkl-ansi-87",
+    "slot": "stabilizers",
+    "name": "透明卫星轴 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#aebdb9",
+    "price": [
+      {
+        "id": "stabilizer-alt-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-alt-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-ivory-layout-tkl-ansi-87",
+    "slot": "keycaps",
+    "name": "云白键帽套装 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#e6e2d5",
+    "price": [
+      {
+        "id": "keycap-ivory-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-ivory-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-layout-tkl-ansi-87",
+    "layout": "layout-tkl-ansi-87",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-dark-layout-tkl-ansi-87",
+    "slot": "keycaps",
+    "name": "石墨键帽套装 · TKL ANSI",
+    "description": "用于 TKL ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#525d65",
+    "price": [
+      {
+        "id": "keycap-dark-own-layout-tkl-ansi-87",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 25900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-dark-external-layout-tkl-ansi-87",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 25900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-navy-layout-100-ansi-104",
+    "slot": "case",
+    "name": "深海蓝铝合金外壳 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#3d4d69",
+    "price": [
+      {
+        "id": "case-navy-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-navy-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-cream-layout-100-ansi-104",
+    "slot": "case",
+    "name": "奶油白铝合金外壳 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#ded9cc",
+    "price": [
+      {
+        "id": "case-cream-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-cream-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 47900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-dense-layout-100-ansi-104",
+    "slot": "case_foam",
+    "name": "高密度底棉 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#77767c",
+    "price": [
+      {
+        "id": "foam-case-dense-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-dense-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-silicone-layout-100-ansi-104",
+    "slot": "case_foam",
+    "name": "静音硅胶底棉 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#a8a5ad",
+    "price": [
+      {
+        "id": "foam-case-silicone-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-silicone-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-thin-layout-100-ansi-104",
+    "slot": "switch_pad",
+    "name": "轻薄轴下垫 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#797782",
+    "price": [
+      {
+        "id": "pad-thin-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 2500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-thin-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 2500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-soft-layout-100-ansi-104",
+    "slot": "switch_pad",
+    "name": "柔软轴下垫 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#a6a4ae",
+    "price": [
+      {
+        "id": "pad-soft-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-soft-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-wired-layout-100-ansi-104",
+    "slot": "pcb",
+    "name": "100% 有线热插拔 PCB · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#304d47",
+    "price": [
+      {
+        "id": "pcb-wired-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 27900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-wired-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 27900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-compact-layout-100-ansi-104",
+    "slot": "pcb",
+    "name": "100% 样板 PCB · 紧凑版 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#294943",
+    "price": [
+      {
+        "id": "pcb-compact-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 30900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-compact-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 30900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-light-layout-100-ansi-104",
+    "slot": "plate_foam",
+    "name": "轻薄夹心棉 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#8d8994",
+    "price": [
+      {
+        "id": "foam-plate-light-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-light-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-soft-layout-100-ansi-104",
+    "slot": "plate_foam",
+    "name": "柔软夹心棉 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#9d98a7",
+    "price": [
+      {
+        "id": "foam-plate-soft-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-soft-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-fr4-layout-100-ansi-104",
+    "slot": "plate",
+    "name": "FR4 定位板 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#5f626f",
+    "price": [
+      {
+        "id": "plate-fr4-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 13900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-fr4-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 13900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-pom-layout-100-ansi-104",
+    "slot": "plate",
+    "name": "POM 定位板 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#dedce4",
+    "price": [
+      {
+        "id": "plate-pom-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 14900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-pom-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 14900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-soft-layout-100-ansi-104",
+    "slot": "switches",
+    "name": "轻压力线性轴 · 104 颗 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#d6c9eb",
+    "price": [
+      {
+        "id": "switch-soft-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 19900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-soft-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 19900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-firm-layout-100-ansi-104",
+    "slot": "switches",
+    "name": "重压力段落轴 · 104 颗 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#a992bc",
+    "price": [
+      {
+        "id": "switch-firm-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-firm-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-smoke-layout-100-ansi-104",
+    "slot": "stabilizers",
+    "name": "烟灰色卫星轴 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#9693a0",
+    "price": [
+      {
+        "id": "stabilizer-smoke-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-smoke-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-white-layout-100-ansi-104",
+    "slot": "stabilizers",
+    "name": "乳白卫星轴 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#d4ced8",
+    "price": [
+      {
+        "id": "stabilizer-white-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-white-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-lavender-layout-100-ansi-104",
+    "slot": "keycaps",
+    "name": "浅紫键帽套装 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#c3b5da",
+    "price": [
+      {
+        "id": "keycap-lavender-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 23900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-lavender-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 23900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-sand-layout-100-ansi-104",
+    "slot": "keycaps",
+    "name": "沙色键帽套装 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#d1c4ad",
+    "price": [
+      {
+        "id": "keycap-sand-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-sand-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-lavender-layout-100-ansi-104",
+    "slot": "case",
+    "name": "薰衣紫铝合金外壳 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#a594d0",
+    "price": [
+      {
+        "id": "case-lavender-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-lavender-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-black-layout-100-ansi-104",
+    "slot": "case",
+    "name": "曜石黑铝合金外壳 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#383e47",
+    "price": [
+      {
+        "id": "case-black-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-black-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 45900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "case-silver-layout-100-ansi-104",
+    "slot": "case",
+    "name": "月光银铝合金外壳 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#aeb7bf",
+    "price": [
+      {
+        "id": "case-silver-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 48900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "case-silver-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 48900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-layout-100-ansi-104",
+    "slot": "case_foam",
+    "name": "样板底棉 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#747981",
+    "price": [
+      {
+        "id": "foam-case-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-case-soft-layout-100-ansi-104",
+    "slot": "case_foam",
+    "name": "柔软底棉 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#a19b8c",
+    "price": [
+      {
+        "id": "foam-case-soft-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-case-soft-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/case_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-silicone-layout-100-ansi-104",
+    "slot": "switch_pad",
+    "name": "样板硅胶轴下垫 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "硅胶",
+    "color": "#a8a2b6",
+    "price": [
+      {
+        "id": "pad-silicone-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 2900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-silicone-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 2900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pad-poron-layout-100-ansi-104",
+    "slot": "switch_pad",
+    "name": "样板泡棉轴下垫 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#777582",
+    "price": [
+      {
+        "id": "pad-poron-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pad-poron-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3500,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switch_pad.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-main-layout-100-ansi-104",
+    "slot": "pcb",
+    "name": "100% 热插拔 PCB · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#224f4a",
+    "price": [
+      {
+        "id": "pcb-main-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 29900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-main-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 29900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "pcb-alt-layout-100-ansi-104",
+    "slot": "pcb",
+    "name": "100% 热插拔 PCB · 暗色 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "FR4",
+    "color": "#263442",
+    "price": [
+      {
+        "id": "pcb-alt-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 31900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "pcb-alt-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 31900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/pcb.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-layout-100-ansi-104",
+    "slot": "plate_foam",
+    "name": "样板夹心棉 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#666b71",
+    "price": [
+      {
+        "id": "foam-plate-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 3900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 2,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "foam-plate-thick-layout-100-ansi-104",
+    "slot": "plate_foam",
+    "name": "加厚夹心棉 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "泡棉",
+    "color": "#8e8c82",
+    "price": [
+      {
+        "id": "foam-plate-thick-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "foam-plate-thick-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 4900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "foamThickness": 4,
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate_foam.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-pc-layout-100-ansi-104",
+    "slot": "plate",
+    "name": "雾面 PC 定位板 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PC",
+    "color": "#c4c8c2",
+    "price": [
+      {
+        "id": "plate-pc-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 12900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-pc-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 12900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "plate-al-layout-100-ansi-104",
+    "slot": "plate",
+    "name": "铝合金定位板 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "铝合金",
+    "color": "#8d989f",
+    "price": [
+      {
+        "id": "plate-al-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 15900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "plate-al-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 15900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/plate.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-linear-layout-100-ansi-104",
+    "slot": "switches",
+    "name": "线性轴 · 104 颗 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#b3a3dc",
+    "price": [
+      {
+        "id": "switch-linear-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 18900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-linear-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 18900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "switch-tactile-layout-100-ansi-104",
+    "slot": "switches",
+    "name": "段落轴 · 104 颗 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "POM",
+    "color": "#c49982",
+    "price": [
+      {
+        "id": "switch-tactile-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 21900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "switch-tactile-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 21900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/switches.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-main-layout-100-ansi-104",
+    "slot": "stabilizers",
+    "name": "PCB 安装卫星轴 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#c8b895",
+    "price": [
+      {
+        "id": "stabilizer-main-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-main-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 5900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "stabilizer-alt-layout-100-ansi-104",
+    "slot": "stabilizers",
+    "name": "透明卫星轴 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "尼龙",
+    "color": "#aebdb9",
+    "price": [
+      {
+        "id": "stabilizer-alt-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "stabilizer-alt-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 6900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/stabilizers.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-ivory-layout-100-ansi-104",
+    "slot": "keycaps",
+    "name": "云白键帽套装 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#e6e2d5",
+    "price": [
+      {
+        "id": "keycap-ivory-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-ivory-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 22900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  },
+  {
+    "fit": "demo-fit-layout-100-ansi-104",
+    "layout": "layout-100-ansi-104",
+    "stem": "MX",
+    "pin": "5-pin",
+    "mounting": "pcb",
+    "coverage": [
+      "1u",
+      "1.25u",
+      "1.5u",
+      "1.75u",
+      "2u",
+      "2.25u",
+      "2.75u",
+      "6.25u"
+    ],
+    "id": "keycap-dark-layout-100-ansi-104",
+    "slot": "keycaps",
+    "name": "石墨键帽套装 · 100% ANSI",
+    "description": "用于 100% ANSI 样板的演示配件，非真实在售商品。",
+    "material": "PBT",
+    "color": "#525d65",
+    "price": [
+      {
+        "id": "keycap-dark-own-layout-100-ansi-104",
+        "sourceType": "platform",
+        "merchantName": "KEYLAB 演示自营",
+        "priceCents": 25900,
+        "currency": "CNY",
+        "isDemoData": true
+      },
+      {
+        "id": "keycap-dark-external-layout-100-ansi-104",
+        "sourceType": "external",
+        "merchantName": "演示第三方",
+        "priceCents": 25900,
+        "currency": "CNY",
+        "isDemoData": true
+      }
+    ],
+    "brand": "KEYLAB 演示",
+    "isDemoData": true,
+    "status": "active",
+    "imageUrl": "/parts/keycaps.svg"
+  }
+]

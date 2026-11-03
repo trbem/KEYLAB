@@ -1,0 +1,10 @@
+export type Slot = 'case' | 'case_foam' | 'switch_pad' | 'pcb' | 'plate_foam' | 'plate' | 'switches' | 'stabilizers' | 'keycaps';
+export type Status = 'compatible' | 'incompatible' | 'unknown' | 'warning';
+export type Offer = { id:string;sourceType:'platform'|'external';merchantName:string;priceCents:number|null;currency:'CNY';productUrl?:string;isDemoData:boolean };
+export type Part = {id:string;slot:Slot;name:string;description:string;material:string;color:string;fit?:string;layout?:string;stem?:string;pin?:string;mounting?:string;coverage?:string[];foamThickness?:number;specs?:Record<string,string|number|boolean|string[]>;price:Offer[];modelUrl?:string;imageUrl?:string;brand?:string;isDemoData?:boolean;status?:string};
+export type Selection = Partial<Record<Slot,string>>;
+export type KeyDesign = {color:string;legend:string;legendColor:string;legendSize:number;image?:string;imageMode:'top'|'wrap';scale:number;rotation:number;offsetX:number;offsetY:number};
+export type KeyDesigns = Record<string,KeyDesign>;
+export type Profile = 'OEM'|'Cherry'|'SA'|'DSA'|'XDA';
+export type Build = {id:string;name:string;templateId:string;selectedParts:Selection;selectedOffers:Partial<Record<Slot,string>>;createdAt:string;updatedAt:string;designs?:KeyDesigns;profile?:Profile};
+export type Result = {status:Status;reason:string;relatedPartIds:string[];suggestedPartIds?:string[]};

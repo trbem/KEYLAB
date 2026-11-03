@@ -1,0 +1,17 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const products=JSON.parse(await readFile(new URL('../src/data/demo-products.json',import.meta.url),'utf8'));
+const text=v=>v==null?'NULL':"'"+String(v).replaceAll("'","''")+"'";
+const value=v=>v==null?'NULL':typeof v==='boolean'?(v?'true':'false'):typeof v==='number'?String(v):text(v);
+const insert=(table,cols,rows)=>`insert into public.${table} (${cols.join(',')}) values\n${rows.map(row=>'('+row.map(value).join(',')+')').join(',\n')}\non conflict do nothing;\n`;
+const names={case:'外壳',case_foam:'底部填充棉',switch_pad:'轴下垫',pcb:'PCB 主板',plate_foam:'夹心棉',plate:'定位板',switches:'轴体',stabilizers:'卫星轴',keycaps:'键帽'};
+const rules=JSON.parse(await readFile(new URL('../src/data/demo-rules.json',import.meta.url),'utf8'));
+let sql='-- KEYLAB 演示商品；价格、品牌、商家和规格均为示例，并非真实在售商品。\n';
+sql+=insert('brands',['id','name','is_demo'],[['keylab-demo','KEYLAB 演示',true]]);
+sql+=insert('categories',['id','name','sort_order'],Object.entries(names).map(([id,name],i)=>[id,name,i]));
+sql+=insert('merchants',['id','name','source_type','is_demo'],[['demo-platform','KEYLAB 演示自营','platform',true],['demo-external','演示第三方','external',true]]);
+sql+=insert('products',['id','name','category_id','brand_id','description','image_url','price_cents','currency','sales_channel','merchant_id','product_url','material','color','status','is_demo'],products.map(p=>[p.id,p.name,p.slot,'keylab-demo',p.description,p.imageUrl,p.price[0].priceCents,'CNY','platform','demo-platform',null,p.material,p.color,'active',true]));
+sql+=insert('product_specs',['product_id','specs'],products.map(p=>[p.id,JSON.stringify(Object.fromEntries(['fit','layout','stem','pin','mounting','coverage','foamThickness'].filter(k=>p[k]!==undefined).map(k=>[k,p[k]])))]));
+sql+=insert('product_offers',['id','product_id','merchant_id','source_type','price_cents','currency','product_url','is_demo'],products.flatMap(p=>p.price.map(o=>[o.id,p.id,o.sourceType==='platform'?'demo-platform':'demo-external',o.sourceType,o.priceCents,'CNY',null,true])));
+sql+='insert into public.compatibility_rules (id,source_category_id,target_category_id,fields,mismatch_status,reason,enabled) values\n'+rules.map(({source,target,fields,mismatchStatus,reason})=>`(${text(source+'-'+target)},${text(source)},${text(target)},ARRAY[${fields.map(text).join(',')}],${text(mismatchStatus)},${text(reason)},true)`).join(',\n')+'\non conflict do nothing;\n';
+await writeFile(new URL('../supabase/seed.sql',import.meta.url),sql,'utf8');
+console.log(`Seed: ${products.length} products (${products.filter(p=>p.layout==='ansi-81').length} for 75%), ${products.reduce((n,p)=>n+p.price.length,0)} offers.`);
