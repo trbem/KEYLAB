@@ -1,4 +1,4 @@
-import { createClient, SupabaseClient } from '@supabase/supabase-js';
+import { getSupabase } from '@/lib/supabase';
 import { Part, Offer, Slot } from '@/lib/types';
 import { localDemoProducts, replaceCatalog, slots } from '@/data/catalog';
 import { setCompatibilityRules, resetCompatibilityRules, type CompatibilityRule } from '@/lib/compatibility';
@@ -6,8 +6,6 @@ export type CatalogState={source:'loading'|'supabase'|'demo'|'error';message:str
 let current:CatalogState={source:'loading',message:'正在读取商品目录…',count:0};
 const subscribers=new Set<(s:CatalogState)=>void>();
 let request:Promise<CatalogState>|null=null;
-let client:SupabaseClient|null=null;
-export function getSupabase():SupabaseClient|null{if(client)return client;const url=process.env.NEXT_PUBLIC_SUPABASE_URL;const key=process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY||process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;if(!url||!key)return null;try{const parsed=new URL(url);if(parsed.protocol!=='https:'&&!(parsed.protocol==='http:'&&(parsed.hostname==='localhost'||parsed.hostname==='127.0.0.1')))return null;client=createClient(url,key);return client}catch{return null}}
 export function catalogState(){return current}
 export function subscribeCatalog(fn:(s:CatalogState)=>void){subscribers.add(fn);return()=>{subscribers.delete(fn)}}
 function publish(state:CatalogState){current=state;subscribers.forEach(fn=>fn(state));return state}

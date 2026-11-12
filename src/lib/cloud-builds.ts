@@ -1,4 +1,4 @@
-import {getSupabase} from '@/lib/catalog-source';
+import {getSupabase} from '@/lib/supabase';
 import {byId} from '@/data/catalog';
 import {Build, KeyDesigns, Profile, Selection, Slot} from '@/lib/types';
 export type CloudSaveResult='saved'|'signed-out'|'unconfigured'|'error';
